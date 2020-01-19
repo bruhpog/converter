@@ -2,8 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Converter/Debug
-/Converter/.vs/ConsoleApplication3/v16
-/.vs
-/Converter/ConsoleApplication3/Debug
-/Converter/ConsoleApplication3/ConsoleApplication3.vcxproj.user
+*/Debug
+.vs/
+Debug/
+*.user
